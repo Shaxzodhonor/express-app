@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "userName": "Bobur",
+    "group": "N-10",
+    "role": "student",
+    "password": "123"
+  },
+  {
+    "id": 2,
+    "userName": "Sardor",
+    "group": "N-11",
+    "role": "student",
+    "password": "124"
+  },
+  {
+    "id":3,
+    "userName": "Burxon",
+    "group": "N-11",
+    "role": "student",
+    "password": "125"
+  },
+  {
+    "id": 4,
+    "userName": "Laziz",
+    "group": "N-10",
+    "role": "student",
+    "password": "126"
+  }
+]
